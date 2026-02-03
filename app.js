@@ -101,10 +101,10 @@ document.addEventListener("DOMContentLoaded", function () {
   const cursor = document.querySelector(".cursor");
 
   const textArray = [
-    "Web Developer",
-    "UI/UX Designer",
+    "Cybersecurity Enthusiast",
+    "SOC Enthusiast",
     "Student",
-    "Problem Solver",
+    "Aspiring Cybersecurity Professional",
   ];
   let textArrayIndex = 0;
   let charIndex = 0;
